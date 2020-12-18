@@ -1,1 +1,1 @@
-touch file1 file2
+touch AEC_File1 AEC_File2
